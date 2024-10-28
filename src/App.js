@@ -22,7 +22,7 @@ function App() {
 
       {coches.map(function (coche) {
         return (
-          <div styles="StyledTextComponent" key={coche}>
+          <div className="StyledTextComponent" key={coche}>
             <p>{coche.Matricula} - {coche.Modelo} {coche.Marca} ({coche.Tipo})</p>
           </div>
 
