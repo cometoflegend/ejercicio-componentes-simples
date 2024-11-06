@@ -1,7 +1,7 @@
 import React from 'react';
 import Contador from './Ejercicio1.js';
 import FormularioNombre from './Ejercicio2.js';
-import MeroFuera from './Ejercicio3.js';
+import Mero from './Ejercicio3.js';
 
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <>
       <Contador /><br/>
       <FormularioNombre />
-      <MeroFuera />
+      <Mero />
 
     </>
   </center>
