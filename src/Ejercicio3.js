@@ -11,7 +11,7 @@ function Mero() {
             <button onClick={() => setIsVisible(!isVisible)}>¡Púlsame!</button>
             {isVisible && (
                 <div><br/>
-                    <img src="https://scx2.b-cdn.net/gfx/news/2023/the-goliath-grouper-wh.jpg" height="500"></img>
+                    <img src="https://scx2.b-cdn.net/gfx/news/2023/the-goliath-grouper-wh.jpg" height="500" alt=""></img>
 
                     <h2>Epinephelus itajara junto a un buceador.</h2>
                 </div>
