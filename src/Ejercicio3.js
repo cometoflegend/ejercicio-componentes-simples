@@ -13,7 +13,7 @@ function Mero() {
                 <div><br/>
                     <img src="https://scx2.b-cdn.net/gfx/news/2023/the-goliath-grouper-wh.jpg" height="500"></img>
 
-                    <h2>Epeniphelus itajara junto a un buceador.</h2>
+                    <h2>Epinephelus itajara junto a un buceador.</h2>
                 </div>
             )}
         </div>
